@@ -1,0 +1,7 @@
+This is the new file .
+Apple 
+Banana
+grapes
+oranges
+watermelon
+lime
